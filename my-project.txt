@@ -1,5 +1,7 @@
 Hi This is my new projext and i need to word hard!
 
+I have to work on git and VSTS
+
 
 Thanks!
 Bye
